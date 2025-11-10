@@ -1,0 +1,15 @@
+name: tessera
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - gdal
+  - rasterio
+  - fiona
+  - jupyterlab
+  - geemap
+  - ipyleaflet
+  - ipywidgets
+  - matplotlib
+  - voila
+  - ipykernel
